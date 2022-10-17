@@ -5,7 +5,7 @@ title: Home
 
 # Drainco INC.
 
-[![](/images/exocore.png)](/articles/exocore%20installation%20instructions/)
+[![](/images/dcfactory.png)](/articles/exocore%20installation%20instructions/)
 
 ## Executive Summary
 
