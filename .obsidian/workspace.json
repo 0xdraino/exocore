@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19bf0bc5d8bd5550",
+        "id": "a3a48cfca4d73677",
         "type": "tabs",
         "children": [
           {
-            "id": "7c45b8dc98202578",
+            "id": "8cb644315d9fb50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "css",
+                "query": "thumb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "index.md"
               }
             }
           }
@@ -140,12 +139,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7c45b8dc98202578",
+  "active": "8cb644315d9fb50d",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-18.md",
     "index.md",
+    "_daily/2022-05-11.md",
+    "_articles/Configure Exocore for Personal Use.md",
     "readme.md",
     "_journal/Exocore Feedback.md",
     "_journal/Grip Training.md",
