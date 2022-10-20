@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: draino
 ---
 
 # Drainco INC.
@@ -9,5 +9,4 @@ title: Home
 
 ## Executive Summary
 
-sup guys my first website :DDDD ahaaa XD! test
-
+sup guys my first website :DDDD ahaaa XD!

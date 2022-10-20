@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "title",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8cb644315d9fb50d",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "_daily/2022-10-20.md",
     "_site/assets/favicon/apple-touch-icon.png",
