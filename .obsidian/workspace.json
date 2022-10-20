@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-10-19.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "favicon",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-10-19.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-10-19.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-10-19.md"
+                "file": "index.md"
               }
             }
           }
@@ -140,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cf91471a0053b065",
+  "active": "8cb644315d9fb50d",
   "lastOpenFiles": [
+    "_daily/2022-10-20.md",
+    "_site/assets/favicon/apple-touch-icon.png",
+    "_site/assets/favicon/android-chrome-512x512.png",
+    "_site/assets/favicon/android-chrome-192x192.png",
+    "_daily/2022-10-19.md",
     "_daily/2022-10-18.md",
     "index.md",
     "_daily/2022-05-11.md",
     "_articles/Configure Exocore for Personal Use.md",
-    "readme.md",
-    "_journal/Exocore Feedback.md",
-    "_journal/Grip Training.md",
-    "_journal/Kariyushi Wear.md",
-    "_wiki/Female Body Training Routine.md",
-    "_articles/Metabolic Switch 3 Week Diet.md"
+    "readme.md"
   ]
 }
