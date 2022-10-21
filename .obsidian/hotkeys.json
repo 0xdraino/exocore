@@ -5,6 +5,12 @@
         "Alt"
       ],
       "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ],
   "obsidian-git:pull": [
@@ -14,6 +20,21 @@
         "Shift"
       ],
       "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }
