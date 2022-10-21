@@ -9,4 +9,4 @@ title: draino
 
 ## Executive Summary
 
-sup guys my first website :DDDD ahaaa XD!
+sup guys my first website :DDDD ahaaa
