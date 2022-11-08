@@ -3,11 +3,10 @@ layout: home
 title: draino
 ---
 
-# Drainco INC.
+# Draino
 
 [![](/images/dcfactory.png)](/articles/exocore%20installation%20instructions/)
 
 ## Executive Summary
 
-sup guys my first website :DDDD ahaaa!!!
-asdflkjds;lkfjl;kdsjf aaD
+sup guys my first website

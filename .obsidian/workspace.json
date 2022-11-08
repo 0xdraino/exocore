@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-10-21.md",
+                "file": "_daily/2022-10-31.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e6d79c96c2144177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2022-11-02.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "box",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-10-21.md",
+                "file": "_daily/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2022-10-21.md",
+                "file": "_daily/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2022-10-21.md"
+                "file": "_daily/2022-11-02.md"
               }
             }
           }
@@ -149,10 +162,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f2481ac5192a47e4",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
     "_daily/2022-10-21.md",
     "index.md",
